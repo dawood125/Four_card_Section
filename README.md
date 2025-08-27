@@ -18,7 +18,7 @@ This project showcases a **four-card grid layout** with hover effects, beautiful
 ## 🔗 Live Demo
 
 - **Solution URL:** [View on Frontend Mentor](https://www.frontendmentor.io/solutions)  
-- **Live Site URL:** [View Live Project](https://your-live-site-url.com)
+- **Live Site URL:** [View Live Project](https://four-card-section-bwll.vercel.app/)
 
 ---
 
@@ -79,6 +79,6 @@ Run the project by simply opening index.html in your browser.
 ## 👨‍💻 Author
 
 - GitHub – [Dawood Ahmed](https://github.com/dawood125)  
-- Frontend Mentor – [@your-username](https://www.frontendmentor.io/profile/dawood125)  
+- Frontend Mentor – [@Dawood Ahmed](https://www.frontendmentor.io/profile/dawood125)  
 
 ---
